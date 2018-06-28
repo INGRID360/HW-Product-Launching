@@ -62,5 +62,5 @@
 - [ ] [R/STARTUPS](https://www.reddit.com/r/startups/?ref=INGRIDVentures)
 - [ ] [Hacker news](https://news.ycombinator.com/show?ref=INGRIDVentures)
 
-![mohaha](https://media.giphy.com/media/8fen5LSZcHQ5O/giphy.gif)
+![mohaha](https://media.giphy.com/media/8fen5LSZcHQ5O/giphy.gif)  
 `by INGRID Ventures 2018 `  
